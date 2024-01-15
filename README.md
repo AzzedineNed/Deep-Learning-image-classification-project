@@ -51,12 +51,18 @@ The dataset is organized as follows:
 
 dataset/
 ├── ernest_celestine/
+
 ├── toy_story_1/
+
 ├── toy_story_2/
+
 ├── toy_story_3/
+
 Each subdirectory contains images for the respective categories. The images are of size 920x540.
 
 ![ernest_celestine](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/ernest-celestine-00048.png) <!-- Placeholder for the accuracy plot image -->
+
+<img src="https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/ernest-celestine-00048.png" width="48">
 
 ![toy_story_1](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-1-00035.png)
 
