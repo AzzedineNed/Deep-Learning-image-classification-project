@@ -1,4 +1,5 @@
 # Deep-Learning-image-classification-project
+This repository houses a deep learning project focusing on image classification using Convolutional Neural Networks (CNNs) and Dense Neural Networks (DNNs). The dataset consists of images from "Ernest & Celestine" and "Toy Story," divided into three parts. The primary goal is to compare models for binary and multi-class image classification tasks.
 ## Overview
 
 This repository contains a Python script for training and evaluating neural network models on image classification tasks using TensorFlow and Keras. The script includes implementations for a Deep Neural Network (DNN) for binary classification, a Convolutional Neural Network (CNN) for binary classification, and a more complex CNN for multiclass classification.
