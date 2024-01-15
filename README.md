@@ -60,15 +60,18 @@ dataset/
 
 Each subdirectory contains images for the respective categories. The images are of size 920x540.
 
-![ernest_celestine](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/ernest-celestine-00048.png) <!-- Placeholder for the accuracy plot image -->
+# ernest-celestine
+<img src="https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/ernest-celestine-00048.png" width="480">
 
-<img src="https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/ernest-celestine-00048.png" width="48">
+# toy_story_1
+<img src="https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-1-00035.png" width="480">
 
-![toy_story_1](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-1-00035.png)
+# toy_story_2
+<img src="https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-2-00162.png" width="480">
 
-![toy_story_2](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-2-00162.png)
+# toy_story_3
+<img src="https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-3-00053.png" width="480">
 
-![toy_story_3](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-3-00053.png)
 
 ## Training and Evaluation
 
