@@ -56,6 +56,14 @@ dataset/
 ├── toy_story_3/
 Each subdirectory contains images for the respective categories. The images are of size 920x540.
 
+![ernest_celestine](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/ernest-celestine-00048.png) <!-- Placeholder for the accuracy plot image -->
+
+![toy_story_1](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-1-00035.png)
+
+![toy_story_2](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-2-00162.png)
+
+![toy_story_3](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/toy-story-3-00053.png)
+
 ## Training and Evaluation
 
 The script includes training and evaluation procedures for each implemented model. You can adjust hyperparameters, model architectures, and training configurations in the script as needed.
@@ -71,9 +79,9 @@ The script includes training and evaluation procedures for each implemented mode
 - Test Loss: 0.3026
 - Test Accuracy: 0.9800
 
-![DNN Accuracy Plot](dnn_accuracy_plot.png) <!-- Placeholder for the accuracy plot image -->
+![DNN Accuracy Plot](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/DNN_Acc.png) <!-- Placeholder for the accuracy plot image -->
 
-![DNN Loss Plot](dnn_loss_plot.png) <!-- Placeholder for the loss plot image -->
+![DNN Loss Plot](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/DNN_Loss.png) <!-- Placeholder for the loss plot image -->
 
 ### CNN Binary Classification
 
@@ -84,9 +92,9 @@ The script includes training and evaluation procedures for each implemented mode
 - Test Loss: 0.0650
 - Test Accuracy: 0.9900
 
-![CNN Binary Accuracy Plot](cnn_binary_accuracy_plot.png) <!-- Placeholder for the accuracy plot image -->
+![CNN Binary Accuracy Plot](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/CNN_Acc.png) <!-- Placeholder for the accuracy plot image -->
 
-![CNN Binary Loss Plot](cnn_binary_loss_plot.png) <!-- Placeholder for the loss plot image -->
+![CNN Binary Loss Plot](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/CNN_Loss.png) <!-- Placeholder for the loss plot image -->
 
 <!-- Add descriptions or captions as needed -->
 
@@ -99,9 +107,9 @@ The script includes training and evaluation procedures for each implemented mode
 - Test Loss: 0.1819
 - Test Accuracy: 0.9450
 
-![CNN 4 Classes Accuracy Plot](cnn_4_classes_accuracy_plot.png) <!-- Placeholder for the accuracy plot image -->
+![CNN 4 Classes Accuracy Plot](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/cnn4_accv2.png) <!-- Placeholder for the accuracy plot image -->
 
-![CNN 4 Classes Loss Plot](cnn_4_classes_loss_plot.png) <!-- Placeholder for the loss plot image -->
+![CNN 4 Classes Loss Plot](https://github.com/AzzedineNed/Deep-Learning-image-classification-project/blob/main/cnn4_lossv2.png) <!-- Placeholder for the loss plot image -->
 
 <!-- Add descriptions or captions as needed -->
 
